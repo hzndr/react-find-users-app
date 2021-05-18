@@ -1,4 +1,4 @@
-# User search app
+# User Search App
 
 Simple user search ```React``` application. Data fetched from JSON Placeholder. 
 
